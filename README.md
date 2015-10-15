@@ -3,7 +3,7 @@
 
 ## What?
 
-This is the Node.js mascot, in handy package format.
+This is the (unofficial) Node.js mascot, in handy package format.
 
 ```
 ·      + 　　 　 .
@@ -43,5 +43,7 @@ You need Node.js >= 4.x, because our mascot loves new releases.
 ## Credits
 
 Licensed under The MIT License (MIT), copyright (c) 2015 Jed Watson (this code, not the mascot)
+
+Please note this package is just for fun, and does not actually represent the official Node.js project or branding.
 
 Thanks to @yoshuawuyts and @Fishrock123 for the ASCII Mascot, and everyone on the node.js team for doing such awesome work.
