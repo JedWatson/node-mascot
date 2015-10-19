@@ -32,7 +32,7 @@ node-mascot
 
 Use it:
 
-```
+```js
 var mascot = require('mascot')
 console.log(mascot.simple) // just the :sparkles::turtle::rocket::sparkles: from the nodejs/node repo
 console.log(mascot.space) // the big picture; our node.js mascot in space
