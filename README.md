@@ -38,7 +38,7 @@ console.log(mascot.simple) // just the :sparkles::turtle::rocket::sparkles: from
 console.log(mascot.space) // the big picture; our node.js mascot in space
 ```
 
-You need Node.js >= 4.x, because our mascot loves new releases.
+You need Node.js `>=4.x`, because our mascot loves new releases.
 
 ## Credits
 
